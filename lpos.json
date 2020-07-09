@@ -1,0 +1,23 @@
+  
+{
+  "Dacx' Service": {
+    "fee": "5",
+    "address": "nix1qeqdncna6jagwhfdc8sdvprjaz39snnnzcygv2x",
+    "feeaddress": "nix1qtj6ef7a2j6qv7tv7nljjadahhphwaceztnfzlx",
+  }, 
+  "Crypto Sharks Service": {
+    "fee": "10",
+    "address": "nix1q2dwedyvxaxst05fzvcrvlg5ve53mnjzhr7yctd",
+    "feeaddress": "nix1qy4phwwhar2uhry06uhef7vzean3apm7lj5994k",
+  }, 
+  "Beekers' Snailbarf Service": {
+    "fee": "5",
+    "address": "nix1qumad8kkcqyjvplnelxg0wacyaqyq0gun2jp47j",
+    "feeaddress": "nix1q8vv240tjs69vef68tnctpjs832jq55ds0m0kkx",
+  }, 
+  "Cold Stake Cool Service": {
+    "fee": "5",
+    "address": "nix1qh3hja4f24u75whegrjyy74kanqg2qjklhxajnk",
+    "feeaddress": "nix1q7r2ygajkwaxnfzu6j6ve5uxrskfnavwpz2a53f",
+  }, 
+}
