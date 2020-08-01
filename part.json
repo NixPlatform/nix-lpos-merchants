@@ -3,8 +3,12 @@
     "fee": "2.5",
     "address": "pcs1vzuadmp42slqapdm8eevm6g8ntm3hlvgptmyjy"
   }, 
-  "Tecnovert’s Pool": {
-    "fee": "3",
-    "address": "pcs14ch7w7ue2q8kadljsl42wehfw8tm99yxsez4kz"
+  "CRYMEL’s Pool": {
+    "fee": "2.5",
+    "address": "pcs137vfy28eytanejvp5ku4grgk3q8cfd5wuknrcp"
+  },
+  "CoinRollin Pool": {
+    "fee": "1.0",
+    "address": "pcs172cyrl4n4f9s0acnjrh93wca0mdgt40mza5a6z"
   }
 }
